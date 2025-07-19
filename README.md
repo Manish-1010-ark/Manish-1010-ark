@@ -1,30 +1,62 @@
 # 👋 Hi there, I'm Manish Shivam!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%26+Web+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=480&lines=Full-Stack+Designer+%26+Developer;UI%2FUX+Enthusiast;Python+%26+Android+Expert;Crafting+Beautiful+Experiences" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me
 
+🎨 **Passionate Full-Stack Designer & Developer**  
+I craft beautiful, user-centric digital experiences from concept to deployment. My passion lies in creating seamless UI/UX designs and bringing them to life with robust full-stack solutions across web and mobile platforms.
+
 🛰️ **Currently Working On**  
-Building a full-stack real estate platform with Flask backend, PostgreSQL database, and responsive frontend UI
+Building a full-stack real estate platform with Flask backend, PostgreSQL database, and pixel-perfect responsive frontend. Also developing modern Android applications with Kotlin and Jetpack Compose, focusing on intuitive user interfaces and smooth animations.
 
 🤝 **Looking to Collaborate On**  
-Open-source Python projects and web applications that solve real-world problems
+UI/UX design projects, open-source Python & Android applications, and innovative web solutions that prioritize user experience and solve real-world problems
 
 🆘 **Looking for Help With**  
-Backend security best practices, performance optimization, and production deployment strategies
+Advanced UI/UX design patterns, micro-interactions, backend security best practices, performance optimization, production deployment strategies, and mobile app distribution
 
 🌱 **Currently Learning**  
-PostgreSQL advanced features, VPS deployment (Hostinger), Docker containerization, and Flask production patterns
+Advanced UI/UX principles, design systems, PostgreSQL optimization, VPS deployment (Hostinger), Docker containerization, Flask production patterns, Jetpack Compose animations, and modern frontend frameworks
 
 💬 **Ask Me About**  
-Python development, Git workflows, web technologies (HTML/CSS/JS), and project deployment
+UI/UX design principles, full-stack development, Python/Flask backends, Android development with Kotlin, responsive web design, user experience optimization, Git workflows, and project architecture
 
 ⚡ **Fun Fact**  
-I started building projects before properly learning Git — now version control is my best friend! 🤓
+I believe great code should be as beautiful as great design — I started building projects before properly learning Git, now version control and design systems are my best friends! 🤓✨
+
+---
+
+## 🚀 Featured Projects
+
+### 🔋 Battery Info App
+A **modern Android application** for real-time battery monitoring with sleek UI and smooth animations.
+
+**✨ Key Features:**
+- ⚡ Live charging power monitoring in watts (W)
+- 📈 Power trend graph with 2-minute data visualization
+- 🔋 Real-time battery percentage & time remaining estimates
+- 🔔 Persistent notification with live statistics
+- 🏠 Interactive home screen widget
+- 🎨 Beautiful light theme with particle background effects
+
+**💻 Tech Stack:** Kotlin, MVVM Architecture, Jetpack Compose, MPAndroidChart, LiveData & ViewModel, AndroidX APIs
+
+### 🏠 Real Estate Platform
+A **full-stack web application** for property management and real estate operations.
+
+**✨ Key Features:**
+- 🗄️ Flask backend with PostgreSQL database
+- 🎨 Responsive frontend with modern UI/UX
+- 🔐 JWT authentication and secure user management
+- 📊 Advanced property search and filtering
+- 📱 Mobile-responsive design
+
+**💻 Tech Stack:** Python, Flask, PostgreSQL, HTML/CSS/JavaScript, JWT
 
 ---
 
@@ -44,12 +76,17 @@ I started building projects before properly learning Git — now version control
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### **Mobile Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,6 +108,7 @@ I started building projects before properly learning Git — now version control
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
@@ -134,13 +172,31 @@ I started building projects before properly learning Git — now version control
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Goals & Upcoming Projects
 
-- 🚀 Deploy my real estate platform to production
-- 📚 Master PostgreSQL performance optimization
-- 🔐 Implement advanced security patterns in Flask
-- 🌐 Contribute to more open-source projects
-- 📖 Share knowledge through technical blog posts
+### 🚀 **Immediate Goals (Next 3 Months)**
+- 📱 Complete and publish Battery Info app to Google Play Store
+- 🏠 Deploy real estate platform to production with advanced UI features
+- 💼 Secure internship opportunities in UI/UX or full-stack development
+- 🎨 Launch personal portfolio website showcasing design & development projects
+
+### 📱 **Upcoming Mobile Projects**
+- 🏋️ **Fitness Tracker App** - Workout planning with beautiful animations
+- 📚 **Study Companion App** - Note-taking with intuitive design patterns
+- 🛒 **E-commerce Mobile App** - Shopping experience with smooth UX flows
+
+### 🌐 **Upcoming Web Projects**
+- 🎨 **Design Portfolio Platform** - Showcase UI/UX work and case studies
+- 📊 **Analytics Dashboard** - Data visualization with modern design systems
+- 🤝 **Freelancer Marketplace** - Connecting designers and developers
+
+### 🎯 **Long-term Vision (6-12 Months)**
+- 🏆 Build a comprehensive design system library
+- 📖 Create technical blog focused on UI/UX + full-stack integration
+- 🌟 Contribute to major open-source design & development projects
+- 🎓 Master advanced design tools (Figma, Framer, After Effects)
+- 🔗 Establish strong network in UI/UX and development communities
+- 💡 Launch my own design consultancy focusing on digital experiences
 
 ---
 
