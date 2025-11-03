@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Manish Shivam!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=480&lines=Full-Stack+Designer+%26+Developer;UI%2FUX+Enthusiast;Python+%26+Android+Expert;Crafting+Beautiful+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=480&lines=Full-Stack+Designer+%26+Developer;UI%2FUX+Enthusiast;Real-time+Web+%26+Mobile+Expert;Crafting+Beautiful+Experiences" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,22 +9,22 @@
 ## 💫 About Me
 
 🎨 **Passionate Full-Stack Designer & Developer**  
-I craft beautiful, user-centric digital experiences from concept to deployment. My passion lies in creating seamless UI/UX designs and bringing them to life with robust full-stack solutions across web and mobile platforms.
+I craft beautiful, user-centric digital experiences from concept to deployment. My passion lies in creating seamless UI/UX designs and bringing them to life with robust full-stack solutions across web and mobile platforms, with a focus on real-time collaborative applications.
 
 🛰️ **Currently Working On**  
-Building a full-stack real estate platform with Flask backend, PostgreSQL database, and pixel-perfect responsive frontend. Also developing modern Android applications with Kotlin and Jetpack Compose, focusing on intuitive user interfaces and smooth animations.
+Building modern collaborative platforms and real-time web applications. Recently launched TeamStream, a comprehensive remote work collaboration suite. Also developing Android applications with Kotlin and Jetpack Compose, focusing on intuitive user interfaces and smooth animations.
 
 🤝 **Looking to Collaborate On**  
-UI/UX design projects, open-source Python & Android applications, and innovative web solutions that prioritize user experience and solve real-world problems
+Real-time collaborative applications, UI/UX design projects, open-source Python & Android applications, and innovative web solutions that prioritize user experience and solve real-world problems
 
 🆘 **Looking for Help With**  
-Advanced UI/UX design patterns, micro-interactions, backend security best practices, performance optimization, production deployment strategies, and mobile app distribution
+Advanced UI/UX design patterns, WebRTC optimization, real-time collaboration algorithms, backend security best practices, performance optimization at scale, and distributed systems architecture
 
 🌱 **Currently Learning**  
-Advanced UI/UX principles, design systems, PostgreSQL optimization, VPS deployment (Hostinger), Docker containerization, Flask production patterns, Jetpack Compose animations, and modern frontend frameworks
+Advanced real-time collaboration patterns, WebRTC & peer-to-peer technologies, operational transforms & CRDTs, design systems, PostgreSQL optimization, Docker containerization, Jetpack Compose animations, and modern frontend frameworks
 
 💬 **Ask Me About**  
-UI/UX design principles, full-stack development, Python/Flask backends, Android development with Kotlin, responsive web design, user experience optimization, Git workflows, and project architecture
+UI/UX design principles, real-time web applications, full-stack development, Python/Flask backends, Android development with Kotlin, collaborative software architecture, WebSocket implementation, responsive web design, and project architecture
 
 ⚡ **Fun Fact**  
 I believe great code should be as beautiful as great design — I started building projects before properly learning Git, now version control and design systems are my best friends! 🤓✨
@@ -33,7 +33,23 @@ I believe great code should be as beautiful as great design — I started buildi
 
 ## 🚀 Featured Projects
 
-### 🔋 Battery Info App
+### 🤝 TeamStream
+A **comprehensive remote work collaboration suite** that unifies all essential productivity tools into one seamless platform.
+
+**✨ Key Features:**
+- 🔐 Complete authentication & workspace management for unlimited teams
+- 💬 Real-time messaging with Socket.IO for instant team communication
+- 📋 Kanban-style task board with drag-and-drop cards and live updates
+- 📝 Google Docs-style collaborative document editing with live cursors
+- 🎨 Full-featured digital whiteboard for visual collaboration
+- 📹 Google Meet-style video conferencing with waiting lobby & live participant management
+
+**💻 Tech Stack:** React, Vite, Node.js, Express, Tailwind CSS, Socket.IO, Liveblocks, PeerJS, 
+Supabase, JWT, TipTap, @dnd-kit/core, React Router
+
+**🔗 Links:** [Live Demo](https://team-stream-wine.vercel.app/)
+
+### 📋 Battery Info App
 A **modern Android application** for real-time battery monitoring with sleek UI and smooth animations.
 
 **✨ Key Features:**
@@ -44,7 +60,8 @@ A **modern Android application** for real-time battery monitoring with sleek UI 
 - 🏠 Interactive home screen widget
 - 🎨 Beautiful light theme with particle background effects
 
-**💻 Tech Stack:** Kotlin, MVVM Architecture, Jetpack Compose, MPAndroidChart, LiveData & ViewModel, AndroidX APIs
+**💻 Tech Stack:** Kotlin, MVVM Architecture, Jetpack Compose, MPAndroidChart, LiveData & ViewModel, 
+AndroidX APIs
 
 ### 🏠 Real Estate Platform
 A **full-stack web application** for property management and real estate operations.
@@ -93,21 +110,30 @@ A **full-stack web application** for property management and real estate operati
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### **Backend & Frameworks**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### **Databases**
+### **Databases & BaaS**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
+### **Real-time & Collaboration**
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Liveblocks](https://img.shields.io/badge/Liveblocks-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -177,8 +203,9 @@ A **full-stack web application** for property management and real estate operati
 ### 🚀 **Immediate Goals (Next 3 Months)**
 - 📱 Complete and publish Battery Info app to Google Play Store
 - 🏠 Deploy real estate platform to production with advanced UI features
-- 💼 Secure internship opportunities in UI/UX or full-stack development
+- 💼 Secure internship or full-time opportunities in full-stack or UI/UX development
 - 🎨 Launch personal portfolio website showcasing design & development projects
+- 📈 Scale TeamStream with enhanced features and performance optimizations
 
 ### 📱 **Upcoming Mobile Projects**
 - 🏋️ **Fitness Tracker App** - Workout planning with beautiful animations
@@ -192,11 +219,11 @@ A **full-stack web application** for property management and real estate operati
 
 ### 🎯 **Long-term Vision (6-12 Months)**
 - 🏆 Build a comprehensive design system library
-- 📖 Create technical blog focused on UI/UX + full-stack integration
+- 📖 Create technical blog focused on real-time collaboration & full-stack architecture
 - 🌟 Contribute to major open-source design & development projects
-- 🎓 Master advanced design tools (Figma, Framer, After Effects)
-- 🔗 Establish strong network in UI/UX and development communities
-- 💡 Launch my own design consultancy focusing on digital experiences
+- 🎓 Master advanced design tools (Figma, Framer, After Effects) and WebRTC
+- 🔗 Establish strong network in UI/UX, full-stack, and real-time technology communities
+- 💡 Launch my own design consultancy focusing on collaborative digital experiences
 
 ---
 
